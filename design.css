@@ -1,0 +1,169 @@
+
+
+header.thicker {
+	font-family: courier;
+	color: black;
+	font-weight: bold;
+	font-size: 90px;
+	text-align: left;
+}
+
+h1.thicker {
+	font-family: courier;
+	color: black;
+	font-weight: bold;
+	font-size: 90px;
+	text-align: left;
+}
+
+body {
+	background-color: white;
+	/*background-repeat:repeat-x; */
+	font-family: Verdana;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+a {color: darkmagenta;
+font-style: italic;
+} 
+
+h1, h4 {
+	font-family: monospace;
+	font-size: 50px;
+	color: black;
+	font-style: normal;
+	position: auto;
+	text-align: center;
+	}
+
+
+label {
+	font-family: Verdana;
+}
+
+img {
+		margin: auto;
+    	display: block;
+    	} 
+nav.strong a {font-style: Courier;
+	color: black;} 
+
+nav ol a {color: rgba(113,97,255,0.5);} /* RGB value with transparency */
+
+nav { 
+		top: 50px;
+	}
+
+
+	}
+
+	nav ul {
+		margin: auto;
+		padding: 0;
+		display: inline-block;
+		font-family: serif; 
+		}
+
+	nav li { 
+		display: inline-block; /*  */
+	}
+
+	nav a {
+		text-decoration: none;
+		padding: 10px;
+		background-color: black;
+		color: white;
+	}
+
+	nav a.active { 
+		background-color: aquamarine;
+		color: black;
+		}
+
+
+	nav a:hover { 
+		background-color: deepskyblue;
+		box-shadow: 5px 5px 10px black;
+	}
+
+
+	form { 
+		text-align: center; /*  */
+	}
+
+	footer { 
+		text-align: center; /*  */
+	}
+
+	img.line { 
+		display: inline; 
+	}
+
+	div.container {
+		width: 1020px;
+		margin: auto;
+    	display: block;
+	}
+
+	
+	textarea {
+		width: 600px;
+		height: 200px;
+	}
+
+a {
+	font-style: normal;
+	font-family: Verdana;
+}
+
+aside {
+	font-style: normal;
+	font-family: Verdana;
+
+}
+
+article#introduction {
+	width:80%;
+	max-width: 700px;
+	margin:10px auto;
+	font-family: Courier;
+	color: black;
+	text-align: justify;
+}
+
+body.contact {
+		    background-image: url("z.jpg");
+
+	    /* Set a specific height */
+	    /* height: 500px; */
+
+	    /* Create the parallax scrolling effect */
+	    background-attachment: fixed;
+	    background-position: center bottom;
+	    background-repeat: no-repeat;
+	    background-size: cover;
+		}
+}
+
+aside h3.heading {
+	font-family: Verdana;
+	font-size: 50px;
+	color: black;
+	font-weight: bold;
+	font-style: normal;
+	position: auto;
+	text-align: center;
+}
+
+p {
+	width:90%;
+	max-width: 700px;
+	margin:10px auto;
+	font-family: Verdana;
+	color: black;
+	text-align: justify;
+	font-size: 120%;
+}
+
